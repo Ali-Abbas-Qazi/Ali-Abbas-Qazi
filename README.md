@@ -64,12 +64,12 @@ A primary repository containing major academic projects built during my BS in Cy
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Abbas-Qazi&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.onrender.com/api?username=Ali-Abbas-Qazi&show_icons=true&theme=github_dark&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Abbas-Qazi&theme=github-dark&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Abbas-Qazi&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.onrender.com/api/top-langs/?username=Ali-Abbas-Qazi&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
 ---
