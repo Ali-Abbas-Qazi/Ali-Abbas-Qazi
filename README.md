@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-I'm currently pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰. With a strong background in **Computer Science, IT, and Programming**, I’m passionate about **understanding vulnerabilities, system behavior, and the principles of digital defense**.  
+I'm currently pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰. With a strong background in **Computer Science, IT, and Programming**, I’m passionate about **understanding vulnerabilities, system behavior, and the principles of digital defense**.
 
 I’m continuously developing my technical expertise in both **offensive and defensive cybersecurity**, while strengthening my programming foundation to support secure system design.
 
@@ -17,37 +17,50 @@ I’m continuously developing my technical expertise in both **offensive and def
 
 ### 🚀 Currently Learning
 
-- 🔐 Ethical Hacking & Network Security  
-- 🧩 Data Structures & Algorithms  
-- 💻 System Programming in **C++**, **Java**, and **Python**  
-- 🐧 Linux Administrations (Kali, Ubuntu) & Digital Forensics  
+- 🔐 Ethical Hacking & Network Security (Google Cyber Security Certificate)
+- 🧩 Data Structures & Algorithms
+- 💽 Database Systems (DBS) & SQL (`SQLite`, `PostgreSQL`)
+- 💻 System Programming in **C++**, **Java**, and **Python**
+- 🖥️ Computer Organization & Assembly Language (COAL)
+- 🐧 Linux Administrations (`WSL`, Kali) & Digital Forensics
+- 📡 Network Mapping & Protocols (`Nmap`, `Wireshark`)
 
 ---
 
 ### 💼 Experience & Roles
 
-- 🧑‍💼 **Team Director** — led and organized multiple university-level events including business expos and sports Olympiads  
-- 🧑‍💻 **IT Lab Assistant** — provided technical support, managed systems, and assisted with network setup and troubleshooting  
-- 💡 **Developer** — working on projects that combine programming logic with cybersecurity applications  
-- 🎨 **Graphic Designer** — designed digital visuals, posters, and layouts for events and projects using **Canva**  
+- 🧑‍💼 **Team Director** — led and organized multiple university-level events including business expos and sports Olympiads
+- 🧑‍💻 **IT Lab Assistant** — provided technical support, managed systems, and assisted with network setup and troubleshooting
+- 💡 **Developer** — working on projects that combine programming logic with cybersecurity applications
+- 🎨 **Graphic Designer** — designed digital visuals, posters, and layouts for events and projects using **Canva**
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode&perline=6" height="42" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode,powershell&perline=7" height="42" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,html,css,kali,windows&perline=5" height="42" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,html,css,kali,windows,sqlite&perline=6" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" height="42" alt="Canva" style="vertical-align:middle; margin-left:8px;" />
 </p>
 
 ---
 
-### 🧩 Featured Project
+### 🧩 Featured Projects
+
+#### 🔹 [HITEC University Semester Projects](https://github.com/Ali-Abbas-Qazi/HITEC-Projects)
+
+A primary repository containing major academic projects built during my BS in Cyber Security, including:
+
+- **Library Management System** (C++ | Programming Fundamentals)
+- **Assignment Management System** (Java GUI & Console | OOP)
+- **Insider Threat Detection Tool** (Python | Information Security)
+- **Data Structures Simulator** (C++ | DSA)
 
 #### 🔹 [AICS DevTech](#)
+
 A fictional **software development company** created for an entrepreneurship project —  
 focused on **innovation, teamwork, and professional software development** with cybersecurity-oriented design and execution.
 
@@ -56,12 +69,12 @@ focused on **innovation, teamwork, and professional software development** with 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Qazi-1966&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Qazi-1966&theme=github-dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Abbas-Qazi&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Abbas-Qazi&theme=github-dark&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Qazi-1966&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Abbas-Qazi&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
 ---
@@ -70,7 +83,7 @@ focused on **innovation, teamwork, and professional software development** with 
 
 <p align="center">
   <a href="mailto:aliabbasqazi@gmail.com"><img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Ali-Qazi-1966"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ali-Abbas-Qazi"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ali-abbas-qazi-1382842a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
