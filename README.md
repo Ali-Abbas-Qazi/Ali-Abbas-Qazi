@@ -59,11 +59,6 @@ A primary repository containing major academic projects built during my BS in Cy
 - **Insider Threat Detection Tool** (Python | Information Security)
 - **Data Structures Simulator** (C++ | DSA)
 
-#### 🔹 [AICS DevTech](#)
-
-A fictional **software development company** created for an entrepreneurship project —  
-focused on **innovation, teamwork, and professional software development** with cybersecurity-oriented design and execution.
-
 ---
 
 ### 📊 GitHub Analytics
