@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <a href="https://ali-abbas-qazi.github.io"><img src="https://img.shields.io/badge/Portfolio-0a0e14?style=for-the-badge&logo=githubpages&logoColor=58a6ff" /></a>
   <a href="https://www.linkedin.com/in/ali-abbas-qazi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aliabbasqazi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- RESUME: replace PLACEHOLDER_RESUME_URL below with your hosted PDF link (Google Drive share link, personal site, or a PDF committed to this repo) -->
@@ -37,8 +38,6 @@ Mindset:      "Break it, Understand it, Defend it."
 ```
 
 I'm a **second-year BS Cybersecurity student** at HITEC University, with hands-on experience across both **offensive and defensive security** — penetration testing, threat detection, incident response, and digital forensics. I serve as **Vice President of the HITEC Cyber Community**, where I help lead workshops, CTFs, and security initiatives for the student body. Everything I work on, I document as a public project report, so each repository is a real, evidence-backed engagement with findings and remediation.
-
-Everything I learn, I document as a public project report — so each repository below is a real, evidence-backed engagement with findings and remediation, not a tutorial follow-along.
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                        FOCUS                                   ║ -->
