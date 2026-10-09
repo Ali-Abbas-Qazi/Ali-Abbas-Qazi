@@ -47,46 +47,42 @@ Everything I learn, I document as a public project report — so each repository
 ## &nbsp;🎯&nbsp; What I'm Working On
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Defensive Security
-
-- Threat detection & log analysis
-- Incident response fundamentals
-- Digital forensics
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 Offensive Skills for Defense
-
-- Web app penetration testing
-- Reconnaissance & enumeration
-- Vulnerability assessment
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧰 Methodology
-
-- PTES · NIST SP 800-115
-- Professional report writing
-- CVSS risk scoring
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Building
-
-- Python security tooling
-- Isolated Kali / VirtualBox labs
-- Linux, C++ & Python proficiency
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🛡️&nbsp; Defensive Security</b>
+      <br><br>
+      • Threat detection &amp; log analysis<br>
+      • Incident response fundamentals<br>
+      • Digital forensics
+    </td>
+    <td width="50%" valign="top">
+      <b>🔎&nbsp; Offensive Security</b>
+      <br><br>
+      • Web app penetration testing<br>
+      • Reconnaissance &amp; enumeration<br>
+      • Vulnerability assessment
+    </td>
+  </tr>
+  <tr>
+    <td height="24"></td>
+    <td height="24"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧰&nbsp; Methodology</b>
+      <br><br>
+      • PTES &amp; NIST SP 800-115<br>
+      • Professional report writing<br>
+      • CVSS risk scoring
+    </td>
+    <td width="50%" valign="top">
+      <b>💻&nbsp; Building</b>
+      <br><br>
+      • Python security tooling<br>
+      • Isolated Kali / VirtualBox labs<br>
+      • Linux, C++ &amp; Python proficiency
+    </td>
+  </tr>
 </table>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
