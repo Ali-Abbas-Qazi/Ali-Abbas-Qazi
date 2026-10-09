@@ -36,7 +36,7 @@ Location:     Islamabad, Pakistan
 Mindset:      "Break it, Understand it, Defend it."
 ```
 
-I'm a **second-year BS Cybersecurity student** at HITEC University with a focus on **defensive security** — detecting threats, responding to incidents, and understanding attacker behavior well enough to build stronger defenses around it. I came to defense from the offensive side, having served as my university's **Red Team Co-Head** before moving into blue-team work as **Vice President of the HITEC Cyber Community**.
+I'm a **second-year BS Cybersecurity student** at HITEC University, with hands-on experience across both **offensive and defensive security** — penetration testing, threat detection, incident response, and digital forensics. I serve as **Vice President of the HITEC Cyber Community**, where I help lead workshops, CTFs, and security initiatives for the student body. Everything I work on, I document as a public project report, so each repository is a real, evidence-backed engagement with findings and remediation.
 
 Everything I learn, I document as a public project report — so each repository below is a real, evidence-backed engagement with findings and remediation, not a tutorial follow-along.
 
