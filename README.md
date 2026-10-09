@@ -15,6 +15,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-abbas-qazi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aliabbasqazi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- RESUME: replace PLACEHOLDER_RESUME_URL below with your hosted PDF link (Google Drive share link, personal site, or a PDF committed to this repo) -->
+  <a href="PLACEHOLDER_RESUME_URL"><img src="https://img.shields.io/badge/Resume-58a6ff?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Islamabad,_Pakistan-0d1117?style=for-the-badge&logo=googlemaps&logoColor=58a6ff" />
   <img src="https://komarev.com/ghpvc/?username=Ali-Abbas-Qazi&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 </p>
@@ -26,12 +28,12 @@
 ## &nbsp;🧠&nbsp; About Me
 
 ```yaml
-Student:      BS Cybersecurity, HITEC University (2nd year · 2024–2028)
+Status:       BS Cybersecurity, HITEC University (2024–2028)
 Focus:        Blue Team — Threat Detection · Incident Response · Digital Forensics
-Foundation:   Attacker-informed defense — former Red Team Co-Head, now HCC Vice President
+Foundation:   Proactive Defense · Vice President @ HITEC Cyber Community
 Experience:   Cybersecurity Intern @ Networkwalks
 Location:     Islamabad, Pakistan
-Mindset:      "Break it to understand it, then defend it better."
+Mindset:      "Break it, Understand it, Defend it."
 ```
 
 I'm a **second-year BS Cybersecurity student** at HITEC University with a focus on **defensive security** — detecting threats, responding to incidents, and understanding attacker behavior well enough to build stronger defenses around it. I came to defense from the offensive side, having served as my university's **Red Team Co-Head** before moving into blue-team work as **Vice President of the HITEC Cyber Community**.
@@ -48,7 +50,8 @@ Everything I learn, I document as a public project report — so each repository
 <tr>
 <td width="50%" valign="top">
 
-**🛡️ Defensive Security**
+### 🛡️ Defensive Security
+
 - Threat detection & log analysis
 - Incident response fundamentals
 - Digital forensics
@@ -56,7 +59,8 @@ Everything I learn, I document as a public project report — so each repository
 </td>
 <td width="50%" valign="top">
 
-**🔎 Offensive Skills for Defense**
+### 🔎 Offensive Skills for Defense
+
 - Web app penetration testing
 - Reconnaissance & enumeration
 - Vulnerability assessment
@@ -66,7 +70,8 @@ Everything I learn, I document as a public project report — so each repository
 <tr>
 <td width="50%" valign="top">
 
-**🧰 Methodology**
+### 🧰 Methodology
+
 - PTES · NIST SP 800-115
 - Professional report writing
 - CVSS risk scoring
@@ -74,10 +79,11 @@ Everything I learn, I document as a public project report — so each repository
 </td>
 <td width="50%" valign="top">
 
-**💻 Building**
+### 💻 Building
+
 - Python security tooling
 - Isolated Kali / VirtualBox labs
-- C++ & Java fundamentals
+- Linux, C++ & Python proficiency
 
 </td>
 </tr>
