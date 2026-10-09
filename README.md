@@ -1,12 +1,12 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Ali%20Abbas%20Qazi&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Intern%20%7C%20Blue%20Team%20%7C%20Threat%20Detection%20%26%20Digital%20Forensics&descSize=18&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Ali%20Abbas%20Qazi&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Practitioner%20%7C%20Blue%20Team%20%7C%20Threat%20Detection%20%7C%20Digital%20Forensics&descSize=18&descAlignY=58" width="100%" />
 </p>
 
 <!-- ====== TYPING SVG ====== -->
 <p align="center">
   <a href="https://github.com/Ali-Abbas-Qazi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BS+Cybersecurity+Student+%40+HITEC+University;Cybersecurity+Intern+%40+Networkwalks;Blue+Team+%7C+Threat+Detection+%7C+Incident+Response;Penetration+Testing+%7C+Digital+Forensics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Cybersecurity+Practitioner+%7C+Blue+Team;Threat+Detection+%7C+Incident+Response;Penetration+Testing+%7C+Digital+Forensics;BS+Cybersecurity+Student+%40+HITEC+University;Breaking+things+to+understand+how+to+defend+them" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,17 +24,17 @@
 
 ```yaml
 name:        Ali Abbas Qazi
-role:        Cybersecurity Intern @ Networkwalks
-education:   BS Cybersecurity, HITEC University (2024 – 2028)
-location:    Islamabad, Pakistan
 focus:       Blue Team — Threat Detection, Incident Response, Digital Forensics
 foundation:  attacker-informed defense (former Red Team Co-Head)
+education:   BS Cybersecurity, HITEC University (2024 – 2028)
+currently:   Cybersecurity Intern @ Networkwalks
+location:    Islamabad, Pakistan
 mindset:     "break it to understand it, then defend it better"
 ```
 
-I'm a second-year **BS Cybersecurity** student and a current **cybersecurity intern at Networkwalks**, where I run hands-on, documented penetration tests and write professional assessment reports. My core interest is **defensive security** — detecting threats, responding to incidents, and understanding attacker behavior well enough to build stronger defenses around it.
+I'm a cybersecurity practitioner focused on **defensive security** — detecting threats, responding to incidents, and understanding attacker behavior well enough to build stronger defenses around it. I come at defense from the offensive side, having served as a university **Red Team Co-Head** before shifting my focus to blue-team work.
 
-I document everything I learn as public project reports, so each repo below is a real engagement with evidence, findings, and remediation — not just a tutorial follow-along.
+Alongside my **BS in Cybersecurity**, I run hands-on penetration tests and write professional assessment reports (currently as an intern at Networkwalks). I document everything as public project reports, so each repo below is a real engagement with evidence, findings, and remediation — not a tutorial follow-along.
 
 ---
 
