@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/ali-abbas-qazi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aliabbasqazi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- RESUME: replace PLACEHOLDER_RESUME_URL below with your hosted PDF link (Google Drive share link, personal site, or a PDF committed to this repo) -->
-  <a href="https://drive.google.com/file/d/1913OiCXY95Y4hC2KCeV2ZNKkriUvTtyO/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-58a6ff?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1913OiCXY95Y4hC2KCeV2ZNKkriUvTtyO/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-111B27?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Islamabad,_Pakistan-0d1117?style=for-the-badge&logo=googlemaps&logoColor=58a6ff" />
   <img src="https://komarev.com/ghpvc/?username=Ali-Abbas-Qazi&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 </p>
