@@ -3,26 +3,16 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=210&section=header&text=Ali%20Abbas%20Qazi&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=BS%20Cybersecurity%20Student%20%7C%20Blue%20Team%20%7C%20Threat%20Detection%20%7C%20Digital%20Forensics&descSize=17&descAlignY=58" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ali-Abbas-Qazi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=BS+Cybersecurity+Student+%40+HITEC+University;Blue+Team+%7C+Threat+Detection+%7C+Incident+Response;Penetration+Testing+%7C+Digital+Forensics;Learning+by+breaking+things%2C+then+defending+them" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://ali-abbas-qazi.github.io"><img src="https://img.shields.io/badge/Portfolio-0a0e14?style=for-the-badge&logo=githubpages&logoColor=58a6ff" /></a>
   <a href="https://www.linkedin.com/in/ali-abbas-qazi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aliabbasqazi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1913OiCXY95Y4hC2KCeV2ZNKkriUvTtyO/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0B2BA8?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Islamabad,_Pakistan-0d1117?style=for-the-badge&logo=googlemaps&logoColor=58a6ff" />
 </p>
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/8K9NFSTA457P"><img src="https://img.shields.io/badge/Google_Cybersecurity-Verified-34A853?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://www.credly.com/badges/5680d4b7-af71-4c00-99a0-ba4e3fdd94ab/public_url"><img src="https://img.shields.io/badge/CCNA:_Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Islamabad,_Pakistan-0d1117?style=for-the-badge&logo=googlemaps&logoColor=58a6ff" />
+  <a href="https://www.credly.com/badges/5680d4b7-af71-4c00-99a0-ba4e3fdd94ab/public_url"><img src="https://img.shields.io/badge/CCNA:_Introduction_to_Networks-Verified-34A853?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 </p>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
