@@ -172,10 +172,10 @@ Academic project repository, including an **Insider Threat Detection Tool** (Pyt
 
 ## &nbsp;🏅&nbsp; Certifications
 
-- **Google Cybersecurity Professional Certificate** — Coursera
-- **Mastercard Cybersecurity Job Simulation** — Forage
-- **Deloitte Australia Cyber Job Simulation** — Forage
-
+- **Google Cybersecurity Professional Certificate** — Coursera &nbsp;·&nbsp; [Verify ↗](https://www.coursera.org/account/accomplishments/professional-cert/8K9NFSTA457P)
+- **CCNA: Introduction to Networks** — Cisco Networking Academy &nbsp;·&nbsp; [Verify ↗](https://www.credly.com/badges/5680d4b7-af71-4c00-99a0-ba4e3fdd94ab/public_url)
+- **Mastercard Cybersecurity Job Simulation** — Forage &nbsp;·&nbsp; [Verify ↗](https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_6aa6c327166082799db2d8d8_1789315728298_completion_certificate.pdf)
+- **Deloitte Australia Cyber Job Simulation** — Forage &nbsp;·&nbsp; [Verify ↗](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_6aa6c327166082799db2d8d8_1789315412325_completion_certificate.pdf)
 ---
 
 <h3 align="center"><i>"In cybersecurity and life, curiosity isn't just a trait — it's the ultimate defense." 🔒</i></h3>
