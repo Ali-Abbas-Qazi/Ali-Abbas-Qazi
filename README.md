@@ -16,10 +16,13 @@
   <a href="https://ali-abbas-qazi.github.io"><img src="https://img.shields.io/badge/Portfolio-0a0e14?style=for-the-badge&logo=githubpages&logoColor=58a6ff" /></a>
   <a href="https://www.linkedin.com/in/ali-abbas-qazi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aliabbasqazi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- RESUME: replace PLACEHOLDER_RESUME_URL below with your hosted PDF link (Google Drive share link, personal site, or a PDF committed to this repo) -->
   <a href="https://drive.google.com/file/d/1913OiCXY95Y4hC2KCeV2ZNKkriUvTtyO/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0B2BA8?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/8K9NFSTA457P"><img src="https://img.shields.io/badge/Google_Cybersecurity-Verified-34A853?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://www.credly.com/badges/5680d4b7-af71-4c00-99a0-ba4e3fdd94ab/public_url"><img src="https://img.shields.io/badge/CCNA:_Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Islamabad,_Pakistan-0d1117?style=for-the-badge&logo=googlemaps&logoColor=58a6ff" />
-  <img src="https://komarev.com/ghpvc/?username=Ali-Abbas-Qazi&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 </p>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
